@@ -1,0 +1,44 @@
+﻿  actor.gen.cpp
+  tinyxml2.cpp
+  Tiled.cpp
+  ResourceHandle.cpp
+  ResourceCache.cpp
+  Resource.cpp
+  GraphicResourceLoader.cpp
+  GraphicResource.cpp
+  ActorResourceLoader.cpp
+  ActorResource.cpp
+  Vec2.cpp
+  LuaManager.cpp
+  SDL_InputInterpreter.cpp
+  InputSystem.cpp
+  TransformComponent.gen.cpp
+  BoxColliderComponent.gen.cpp
+  GameViewBase.cpp
+d:\jstopyra\2017_fall_gap305\midterm\engine\king\source\gameview\gameviewbase.cpp(53): warning C4100: 'deltatime': unreferenced formal parameter
+  GameTimer.cpp
+  GameLogicBase.cpp
+d:\jstopyra\2017_fall_gap305\midterm\engine\king\source\gamelogic\gamelogicbase.cpp(297): warning C4100: 'deltatime': unreferenced formal parameter
+  IEventManager.cpp
+  Generating Code...
+  Compiling...
+  EventManager.cpp
+  TransformComponent.cpp
+  SquareRenderComponent.cpp
+d:\jstopyra\2017_fall_gap305\midterm\engine\king\source\components\squarerendercomponent.cpp(75): warning C4100: 'deltaTime': unreferenced formal parameter
+  BoxColliderComponent.cpp
+d:\jstopyra\2017_fall_gap305\midterm\engine\king\source\components\boxcollidercomponent.cpp(65): warning C4100: 'deltaSeconds': unreferenced formal parameter
+  AnimationComponent.cpp
+  ActorComponent.cpp
+  CollisionSystem.cpp
+  Application.cpp
+d:\jstopyra\2017_fall_gap305\midterm\engine\king\source\application\application.cpp(27): warning C4005: '_DEBUG': macro redefinition
+  d:\jstopyra\2017_fall_gap305\midterm\engine\king\source\application\application.cpp(27): note: command-line arguments:  see previous definition of '_DEBUG'
+  ActorFactory.cpp
+  Actor.cpp
+  Generating Code...
+OS.lib(Logger.obj) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+SDL2_image.lib(SDL2_image.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+SDL2_mixer.lib(SDL2_mixer.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  King.vcxproj -> D:\jstopyra\2017_Fall_GAP305\Midterm\Engine\King\Libs\Win32_Debug\King.lib

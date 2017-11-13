@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+
+<!-- XML "Enemy3 Actor" -->
+
+<Enemy3>
+  <TransformComponent>
+    <Transform x="0" y="0" scale="1.0" width="45" height="30"/>
+  </TransformComponent>
+  <SquareRenderComponent>
+   <Source filename="Assets\Images\Enemy3.png" x="0" y="0" 
+   width="45" height="30"/>
+  </SquareRenderComponent>
+    <BoxColliderComponent>
+    <Dimensions x="0" y="0" width="45" height="30"/>
+	<Reaction reactionid="Enemy"/>
+  </BoxColliderComponent>
+</Enemy3>

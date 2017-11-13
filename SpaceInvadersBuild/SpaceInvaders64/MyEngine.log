@@ -1,0 +1,24 @@
+[Initialized] Logger
+Source\Application\Application.cpp: Line 155
+[Initialized] Main Event Manager
+Source\EventSystem\IEventManager.cpp: Line 24
+[Initialized] Application Event Manager Created
+Source\Application\Application.cpp: Line 195
+[Initialized] Resource Cache Created
+Source\Application\Application.cpp: Line 179
+[Initialized] Game Options Set
+Source\Application\Application.cpp: Line 231
+[Initialized] SDL
+Source\Application\Application.cpp: Line 251
+[Initialized] SDL window created
+Source\Application\Application.cpp: Line 273
+[Initialized] SDL renderer created
+Source\Application\Application.cpp: Line 289
+[Initialized] SDL mixer
+Source\Application\Application.cpp: Line 319
+[Initialized] SDL true-type font
+Source\Application\Application.cpp: Line 304
+[Initialized] Created Game Logic and Game View
+Source\Application\Application.cpp: Line 348
+[Initialized] Game Initialized!
+Source\Application\Application.cpp: Line 83

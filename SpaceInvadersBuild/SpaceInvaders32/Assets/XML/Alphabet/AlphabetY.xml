@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+
+<!-- XML "AlphabetY" -->
+
+<AlphabetY>
+  <TransformComponent>
+    <Transform x="0" y="0" scale="1.0"/>
+  </TransformComponent>
+  <SquareRenderComponent>
+    <Source filename="Assets\Images\alphabet.png" x="960" y="0"
+   width="40" height="60"/>
+  </SquareRenderComponent>
+</AlphabetY>
+<!--  A-0
+      B-40 
+      C-80
+      D-120
+      E-160
+      F-200
+      G-240
+      H-280
+      I-320
+      J-360
+      K-400 
+      L-440
+      M-480
+      N-520
+      O-560
+      P-600
+      Q-640
+      R-680
+      S-720
+      T-760
+      U-800
+      V-840
+      W-880
+      X-920
+      Y-960
+      Z-1000
+      
+      
+      
+      
+      
+      -->

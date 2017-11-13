@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+
+<!-- XML "Player Actor" -->
+
+<Player>
+  <TransformComponent>
+    <Transform x="394" y="800" scale="1.0" width="64" height="39"/>
+  </TransformComponent>
+  <SquareRenderComponent>
+   <Source filename="Assets\Images\player.png" x="0" y="0" 
+   width="64" height="39"/>
+  </SquareRenderComponent>
+  <BoxColliderComponent>
+    <Dimensions x="0" y="0" width="64" height="39"/>
+	<Reaction reactionid="Player"/>
+  </BoxColliderComponent>
+</Player>

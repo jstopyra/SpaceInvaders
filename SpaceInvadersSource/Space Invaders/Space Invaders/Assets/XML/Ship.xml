@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+
+<!-- XML "Ship Actor" -->
+
+<Ship>
+  <TransformComponent>
+    <Transform x="0" y="0" scale="1" width="79" height="37"/>
+  </TransformComponent>
+  <SquareRenderComponent>
+   <Source filename="Assets\Images\Ship.png" x="0" y="0" 
+   width="79" height="37"/>
+  </SquareRenderComponent>
+  <BoxColliderComponent>
+    <Dimensions x="0" y="0" width="79" height="37"/>
+	<Reaction reactionid="Boss"/>
+  </BoxColliderComponent>
+</Ship>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<!-- XML "MenuStart" -->
+
+<MenuStart>
+  <TransformComponent>
+    <Transform x="0" y="0" scale="1"/>
+  </TransformComponent>
+  <SquareRenderComponent>
+   <Source filename="Assets\Images\menuStart.png" x="0" y="0" 
+   width="500" height="500"/>
+  </SquareRenderComponent>
+</MenuStart>

@@ -1,0 +1,4 @@
+<? xml version="1.0" ?>
+<GameOptions Title="Space Invaders" WindowX="300" WindowY="100" 
+WindowWidth="900" WindowHeight="1000" PreloadFile="Assets\XML\Preload.xml"
+StartMap="Assets\Maps\spaceInvadersMap.tmx" StartScript="Assets\Lua\Main.lua" BgMusic="Assets\Sounds\spaceinvaders1.wav"/>
